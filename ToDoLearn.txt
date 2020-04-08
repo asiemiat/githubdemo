@@ -1,3 +1,4 @@
-Learn Github
-Second line 
-Third line 
+Learn Github    |
+Second line     |
+Third line      | 
+________________|
